@@ -42,6 +42,6 @@ git reflog => mostra as versões do código
 
 git branch
 
-git branch staging
+git checkout staging  => ir para/trocar de branch 
 
  git push --set-upstream origin staging =>criar ova branch
