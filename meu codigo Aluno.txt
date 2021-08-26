@@ -20,3 +20,26 @@ namespace SmartSchool.WebAPI.Models
 	public IEnumerable<AlunoDisciplina> GetAlunoDisciplinas { get; set; }
     }
 }
+
+
+
+----------------------------------------------------------
+git reflog => mostra as versões do código
+
+git reset --hard 1584aa4 => voltar a versão anterior
+
+git status
+
+git add . 
+
+git status
+
+git commit -m ""
+
+git push
+
+git reflog => mostra as versões do código
+
+git branch
+
+git branch staging
